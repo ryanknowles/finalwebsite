@@ -1,38 +1,13 @@
 <html>
 <head>
+<title>  </title>
 </head>
 <style>
 body {
-    background-image: http://blogs.sas.com/content/sastraining/files/2015/03/black_background.png("paper.gif");
+    background-image: url("http://www.myfreetextures.com/wp-content/uploads/2015/01/light-gray-asphalt-road-background-image.jpg");
 }
 </style>
 </head>
 <body>
-
-<p> this is a word </p>
-
-
-
-
-
-
-
-
-
 </body>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </html>
