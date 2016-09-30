@@ -9,7 +9,13 @@ body {
 </style>
 </head>
 <body>
-<p><font color="white">This is some text!</font></p>
-<p><a href="http://www.w3schools.com/html/">Visit our HTML tutorial</a></p>
+
+<p>This is some text!</p>
+
+<ul style="list-style-type:disc">
+  <li><p><a href="http://www.w3schools.com/html/">Dodge Viper</a></p></li>
+  <li><p><a href="http://www.w3schools.com/html/">Lamborghini Sesto Elemento</a></p></li>
+  <li><p><a href="http://www.w3schools.com/html/">Pagani Zhonda</a></p></li>
+</ul>
 </body>
 </html>
