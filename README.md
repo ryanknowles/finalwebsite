@@ -37,6 +37,38 @@ Bugatti Chiron
 </h1>
 <img src="http://assets.bugatti.com/typo3conf/ext/bugatti_specials/Resources/Public/Template/content/chiron/gallery/9.jpg" alt="Chiron" style="width:550px;height:350px;">
 
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+
+<table>
+  <tr>
+    <th>Price</th>
+    <th>Top Speed</th>
+    <th> Year made or coming</th>
+    <th>Acceleration 0-100</th>
+  </tr>
+  <tr>
+    <td>$2,644,306 US</td>
+    <td>463k/hr or 288m/hr</td>
+    <td>2018</td>
+    <td>2.4seconds</td>
+  </tr>
+</table>
 
 </body>
 </html>
