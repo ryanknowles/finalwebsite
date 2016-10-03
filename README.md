@@ -10,18 +10,33 @@ body {
 </head>
 <body>
 
-<p>This is some text!</p>
+<h2 style="background-color:yellow">
+R8 Cars
+</h2>
+<br>
+<p>Welcome to R8 Cars. Here we have all the new exotic cars that are rated by the general public.</p>
 
-<ul style="list-style-type:disc">
-	<li><p><a href="http://www.w3schools.com/html/">Bugatti Chiron</a></p></li>
-	<li><p><a href="http://www.w3schools.com/html/">Chevrolet Corvette Stingray C7</a></p></li>
-	<li><p><a href="http://www.w3schools.com/html/">Dodge Viper</a></p></li>
-	<li><p><a href="http://www.w3schools.com/html/">Ferrari F40</a></p></li>
-    <li><p><a href="http://www.w3schools.com/html/">Kawasaki Ninja 600</a></p></li>
-	<li><p><a href="http://www.w3schools.com/html/">Koenigsegg One:1</a></p></li>
-	<li><p><a href="http://www.w3schools.com/html/">Lamborghini Sesto Elemento</a></p></li>
-	<li><p><a href="http://www.w3schools.com/html/">Pagani Zhonda</a></p></li>
-	<li><p><a href="http://www.w3schools.com/html/">
+<p> Cars currently on this site</p>
+<ul>
+  <li>Bugatti Chiron</li>
+  <li>Chevrolet Corvette Stingray C7</li>
+  <li>Dodge Viper</li>
+  <li>Ferrari F40</p>
+  <li>Kawasaki Ninja 600</li>
+  <li>Koenigsegg One:1</li>
+  <li>Lamborghini Sesto Elemento</li>
+  <li>Pagani Zhonda</li>
 </ul>
+<br>
+<h2 style="background-color:cyan">
+Now the cars
+</h2>
+<br>
+<h1 style="background-color:orange">
+Bugatti Chiron
+</h1>
+<img src="http://assets.bugatti.com/typo3conf/ext/bugatti_specials/Resources/Public/Template/content/chiron/gallery/9.jpg" alt="Chiron" style="width:550px;height:350px;">
+
+
 </body>
 </html>
