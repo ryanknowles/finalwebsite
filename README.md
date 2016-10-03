@@ -38,24 +38,12 @@ Bugatti Chiron
 <img src="http://assets.bugatti.com/typo3conf/ext/bugatti_specials/Resources/Public/Template/content/chiron/gallery/9.jpg" alt="Chiron" style="width:550px;height:350px;">
 
 <style>
-table {
-    font-family: arial, sans-serif;
+table, th, td {
+    border: 1px solid black;
     border-collapse: collapse;
-    width: 100%;
-}
-
-td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even) {
-    background-color: #dddddd;
 }
 </style>
-
-<table>
+<table style="width:100%">
   <tr>
     <th>Price</th>
     <th>Top Speed</th>
