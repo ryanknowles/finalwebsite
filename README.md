@@ -1,7 +1,6 @@
 <html>
 <head>
 <title> R8 Cars  </title>
-</head>
 <style>
 body {
     background-image: url("http://wallpapercave.com/wp/BVQUlFz.jpg");
@@ -154,13 +153,36 @@ table, th, td {
   </tr>
   <tr>
 	<td><p><font color="green">$12,699 US</td></p>
-	<td><p><font color="green">230 km/hr 143 miles/hr</td></p>
+	<td><p><font color="green">230 km/hr or 143 miles/hr</td></p>
 	<td><p><font color="green">2015</td></p>
 	<td><p><font color="green">2.5 seconds</td></p>
   </tr>
 </table>
-
-
-
+<br>
+<br>
+<h1 style="background-color:red">
+Koenigsegg One:1
+</h1>
+<img src="http://1hosj01irnixn8onr1zmv5s1.wpengine.netdna-cdn.com/wp-content/uploads/2014/11/Koenigsegg_One1_Front_02.jpg" alt="One:1" style="width:500px;height:350px;">
+<style>
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+</style>
+<table style="width:100%">
+  <tr>
+	<th><p><font color="green">Price</th></p>
+	<th><p><font color="green">Top Speed</th></p>
+	<th><p><font color="green">Year made or coming</th></p>
+	<th><p><font color="green">Acceleration 0-100(km/hr)</td></p>
+  </tr>
+  <tr>
+	<td><p><font color="green">$1.5million US min.</td></p>
+	<td><p><font color="green">439.351 km/hr or 273 miles/hr</td></p>
+	<td><p><font color="green">2015</td></p>
+	<td><p><font color="green">2.8seconds</td></p>
+  </tr>
+</table>
 </body>
 </html>
