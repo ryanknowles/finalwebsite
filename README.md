@@ -24,7 +24,8 @@ R8 Cars
   <li><p><font color="green">2015 Kawasaki Ninja ZX-6R ABS</li></p>
   <li><p><font color="green">Koenigsegg One:1</li></p>
   <li><p><font color="green">Lamborghini Sesto Elemento</li></p>
-  <li><p><font color="green">Pagani Zhonda</li></p>
+  <li><p><font color="green">Pagani Zhonda R</li></p>
+  <li><p><font color="green">Aston Martin Vulcan</li></p>
 </ul>
 <br>
 <h2>Now the cars</h2>
@@ -182,6 +183,84 @@ table, th, td {
 	<td><p><font color="green">439.351 km/hr or 273 miles/hr</td></p>
 	<td><p><font color="green">2015</td></p>
 	<td><p><font color="green">2.8seconds</td></p>
+  </tr>
+</table>
+<br>
+<br>
+<h1 style="background-color:red">
+Lamborghini Sesto Elemento
+</h1>
+<img src="http://weneedfun.com/wp-content/uploads/2016/04/Lamborghini-Sesto-Elemento-5.jpg" alt="Sesto" style="width:550px;height:350px;">
+<style>
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+</style>
+<table style="width:100%">
+  <tr>
+	<th><p><font color="green">Price</th></p>
+	<th><p><font color="green">Top Speed</th></p>
+	<th><p><font color="green">Year made or coming</th></p>
+	<th><p><font color="green">Acceleration 0-100(km/hr)</td></p>
+  </tr>
+  <tr>
+	<td><p><font color="green">$2.2million to $2.9million US</td></p>
+	<td><p><font color="green">322 km/hr or 200 miles/hr</td></p>
+	<td><p><font color="green">2010</td></p>
+	<td><p><font color="green">2.5 seconds</td></p>
+  </tr>
+</table>
+<br>
+<br>
+<h1 style="background-color:red">
+Pagani Zhonda R
+</h1>
+<img src="http://img.wallpaperfolder.com/f/7BD25110C9AF/cars-italian-supercars-pagani-zonda.jpg" alt="zhonda" style="width:575px;height:350px;">
+<style>
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+</style>
+<table style="width:100%">
+  <tr>
+	<th><p><font color="green">Price</th></p>
+	<th><p><font color="green">Top Speed</th></p>
+	<th><p><font color="green">Year made or coming</th></p>
+	<th><p><font color="green">Acceleration 0-100(km/hr)</td></p>
+  </tr>
+  <tr>
+	<td><p><font color="green">$2.8 million US</td></p>
+	<td><p><font color="green">335 km/hr or 208 miles/hr</td></p>
+	<td><p><font color="green">2007</td></p>
+	<td><p><font color="green">2.7 seconds</td></p>
+  </tr>
+</table>
+<br>
+<br>
+<h1 style="background-color:red">
+Aston Martin Vulcan
+</h1>
+<img src="http://cdntbs.astonmartin.com/sitefinity/Vulcan/vulcan-teaser-gallery2.jpg" alt="vulcan" style="width:550px;height:350px;">
+<style>
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+</style>
+<table style="width:100%">
+  <tr>
+	<th><p><font color="green">Price</th></p>
+	<th><p><font color="green">Top Speed</th></p>
+	<th><p><font color="green">Year made or coming</th></p>
+	<th><p><font color="green">Acceleration 0-100(km/hr)</td></p>
+  </tr>
+  <tr>
+	<td><p><font color="green"></td></p>
+	<td><p><font color="green"></td></p>
+	<td><p><font color="green"></td></p>
+	<td><p><font color="green"></td></p>
   </tr>
 </table>
 </body>
