@@ -1,0 +1,14 @@
+/*External CSS of finalweb*/
+body {
+background-image: url("http://wallpapercave.com/wp/BVQUlFz.jpg");
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: center;
+}
