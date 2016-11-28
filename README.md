@@ -1,4 +1,4 @@
-This is a car stat website. This website features all the best exotic cars within each car manufactuer.
+This is a car stat website. This website features all the best exotic cars within each car manufactuer along with information on each car on the website.
 <br>
 The point of this website is to provide stats on all the exotic cars from big car manufactuers globally. It has images, prices, year made, top speedd and acceleration for each car.
 <br>
