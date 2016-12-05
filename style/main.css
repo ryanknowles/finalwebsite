@@ -1,6 +1,7 @@
 /*External CSS of finalweb*/
 body {
 background-image: url("http://wallpapercave.com/wp/BVQUlFz.jpg");
+color: green;
 }
 
 
@@ -11,4 +12,8 @@ table, th, td {
 th, td {
     padding: 5px;
     text-align: center;
+}
+
+.black_text{
+	color:black;
 }
