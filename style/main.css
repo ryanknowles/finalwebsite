@@ -2,6 +2,7 @@
 body {
 background-image: url("http://wallpapercave.com/wp/BVQUlFz.jpg");
 color: green;
+margin:0 ;
 }
 
 
@@ -18,10 +19,20 @@ th, td {
 	color:black;
 }
 
+img.logo{
+	height: 150px;
+	width: 150px;
+}
+
+img.car{
+	height: 400px;
+	width: 600px;
+}
+
 .menu{
-<style>
-body {
-    margin: 0;
+}
+ {
+
 }
 
 ul {
@@ -30,9 +41,10 @@ ul {
     padding: 0;
     width: 25%;
     background-color: #f1f1f1;
-    position: fixed;
+    /*position: fixed;*/
     height: 100%;
     overflow: auto;
+	float: right;
 }
 
 li a {
@@ -50,17 +62,4 @@ li a.active {
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
-}
-</style>
-
-<ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
-</ul>
-
-<div style="margin-left:25%;padding:1px 16px;height:1000px;">
-
-</div>
 }
