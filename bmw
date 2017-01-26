@@ -1,0 +1,21 @@
+<h1 style="background-color:Red">BMW</h1>
+			<link rel="stylesheet" type="text/css" href="main.css">
+
+	<h2>BMW i8</h2>
+	<img src="http://cdn.bmwcase.com/2016/07/03/photo-1-concept-bmw-i-vision-future-interaction-actualit.jpg" alt="i8" class="car">
+	<table style="width:100%">
+	<tr>
+		<th>Price</th>
+		<th>Top Speed</th>
+		<th>Year made or coming</th>
+		<th>Acceleration 0-100(km/hr)</td>
+	</tr>
+	<tr>
+		<td>$150 000 CA</td>
+		<td>250km/hr</td>
+		<td>2017</td>
+		<td>4.4 seconds</td>
+	</tr>
+	</table>
+	<br>
+	<br>
