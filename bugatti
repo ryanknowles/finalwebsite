@@ -1,0 +1,21 @@
+<h1 style="background-color:Red">Bugatti</h1>
+			<link rel="stylesheet" type="text/css" href="main.css">
+
+		<h2>Bugatti Chiron</h2>
+		<img src="http://assets.bugatti.com/typo3conf/ext/bugatti_specials/Resources/Public/Template/content/chiron/gallery/9.jpg" alt="Chiron" class="car">
+		<table style="width:100%">
+	<tr>
+		<th>Price</th>
+		<th>Top Speed</th>
+		<th>Year made or coming</th>
+		<th>Acceleration 0-100(km/hr>)</th>
+	</tr>
+	<tr>
+		<td>$2,644,306 US</td>
+		<td>463km/hr or 288miles/hr</td>
+		<td>2018</td>
+		<td>2.4 seconds</td>
+	</tr>
+	</table>
+	<br>
+	<br>
