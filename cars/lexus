@@ -1,0 +1,21 @@
+	<h1 style="background-color:Red">Lexus</h1>
+			<link rel="stylesheet" type="text/css" href="main.css">
+
+	<h2>Lexus LFA</h2>
+	<img src="http://pictures.topspeed.com/IMG/crop/200910/2010-lexus-lf-a-4_600x0w.jpg" alt="lfa" class="car">
+	<table style="width:100%">
+	<tr>
+		<th>Price</th>
+		<th>Top Speed</th>
+		<th>Year made or coming</th>
+		<th>Acceleration 0-100(km/hr)</td>
+	</tr>
+	<tr>
+		<td>$375,000</td>
+		<td>325 km/hr or 202 miles/hr</td>
+		<td>2012</td>
+		<td>3.8 seconds</td>
+	</tr>
+	</table>
+	<br>
+	<br>
